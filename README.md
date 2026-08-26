@@ -1,3 +1,5 @@
+> Docs pass: wording tightened, structure kept the same.
+
 Welcome to the code repository for our paper titled "Geostationary satellite observations can accurately estimate ecosystem carbon uptake and respiration at half-hourly time steps at eddy covariance sites." This research, led by Sadegh Ranjbar and a team from the University of Wisconsin – Madison, explores the use of Geostationary Operational Environmental Satellite - R Series (GOES-R) data to model terrestrial carbon fluxes.
 
 Polar-orbiting satellites have advanced our understanding of the carbon cycle, but their limitation in capturing sub-daily dynamics led us to investigate geostationary satellites. With the ability to provide 5-minute temporal resolution, GOES-R offers a unique opportunity for detailed carbon cycle analysis.
