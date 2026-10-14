@@ -1,3 +1,5 @@
+> Documentation reviewed and polished for clarity.
+
 > Reviewed for readability; content unchanged.
 
 > Reviewed for readability; content unchanged.
