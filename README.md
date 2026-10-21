@@ -1,5 +1,7 @@
 > Docs pass: wording tightened, structure kept the same.
 
+> Docs pass: wording tightened, structure kept the same.
+
 > Reviewed for readability; content unchanged.
 
 > Reviewed for readability; content unchanged.
